@@ -18,3 +18,6 @@ Utilizado para adicionar algumas funcionalidades do sucrase no jest, após a ins
 
 #### @types/jest
 Utilizado para aplicar algumas InteliSenses do jest
+
+#### supertest
+Utilizado para realizar requisicoes em rotas em ambiente de teste
