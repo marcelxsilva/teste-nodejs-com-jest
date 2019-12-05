@@ -21,3 +21,6 @@ Utilizado para aplicar algumas InteliSenses do jest
 
 #### supertest
 Utilizado para realizar requisicoes em rotas em ambiente de teste
+
+#### faker and factory-girl
+Permite a geração de massa de dados para ser utilizado em testes, sem a necessidade de ficar escrevendo cada email, nome ou senha em testes de criação de usuário.
